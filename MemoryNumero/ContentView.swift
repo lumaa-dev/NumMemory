@@ -321,8 +321,8 @@ struct ContentView: View {
         }
         
         let content = UNMutableNotificationContent()
-        content.title = "Memory Numéro"
-        content.body = "Tu peux maintenant deviner le numéro"
+        content.title = "NumMemory"
+        content.body = String(localized: "Tu peux maintenant deviner le numéro")
         content.badge = 1
         
         if !toggled {
