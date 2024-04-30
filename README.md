@@ -11,3 +11,8 @@ Une fois fait, il faudra simplement appuyer sur "Enregistrer".
 
 Le lendemain, à la même heure, vous pourrez __deviner__ le numéro que vous avez inséré. Si il est incorrect, la boîte de texte sera supprimée, sinon vous serez félicité d'avoir trouvé.\
 Et ça continue, en boucle... Simple, non ?
+
+## Disponibilité
+
+iOS 16+
+(macOS et Apple Vision Pro en tant qu'application iPhone)
