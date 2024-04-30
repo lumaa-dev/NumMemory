@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/xcode,swift,swiftpackagemanager,swiftpm
 # Edit at https://www.toptal.com/developers/gitignore?templates=xcode,swift,swiftpackagemanager,swiftpm
 
+## macOS ###
+.DS_Store
+
 ### Swift ###
 # Xcode
 #
