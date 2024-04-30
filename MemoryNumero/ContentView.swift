@@ -326,7 +326,7 @@ struct ContentView: View {
         content.badge = 1
         
         if !toggled {
-            let tomorrow = Calendar.current.date(byAdding: .minute, value: 2, to: .now)!
+            let tomorrow = Calendar.current.date(byAdding: .day, value: 1, to: .now)!
             
             let comp = Calendar.current.dateComponents([.day, .month, .year, .hour, .minute], from: tomorrow)
             
