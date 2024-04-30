@@ -1,0 +1,146 @@
+{
+  "sourceLanguage" : "fr",
+  "strings" : {
+    "0123456789" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0123456789"
+          }
+        }
+      }
+    },
+    "À demain, pour une nouvelle tentative !" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See you tomorrow, for a new try!"
+          }
+        }
+      }
+    },
+    "Annuler" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Correct !" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct!"
+          }
+        }
+      }
+    },
+    "Devinez le numéro !" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guess the number!"
+          }
+        }
+      }
+    },
+    "Enregistrer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "Enregistrez un numéro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save a number"
+          }
+        }
+      }
+    },
+    "Essayer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guess"
+          }
+        }
+      }
+    },
+    "Le numéro est incorrect" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The number is incorrect"
+          }
+        }
+      }
+    },
+    "Les numéros entrés restent sur votre appareil, et ne le quitte jamais." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The written numbers stay on-device, always."
+          }
+        }
+      }
+    },
+    "Supprimer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "Tu peux maintenant deviner le numéro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can now guess the number"
+          }
+        }
+      }
+    },
+    "Voulez-vous vraiment supprimer le numéro ?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do you want to delete the number?"
+          }
+        }
+      }
+    },
+    "Vous pourrez jouer dans..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You will be able to play in..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
