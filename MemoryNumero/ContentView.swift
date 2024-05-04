@@ -4,6 +4,8 @@ import SwiftUI
 import UserNotifications
 
 struct ContentView: View {
+    @Environment(\.openURL) private var openURL
+    
     @State private var allowsNotif: Bool = false
     
     @State private var canPlay: Bool = true
@@ -105,6 +107,12 @@ struct ContentView: View {
                             
                             Divider()
                                 .frame(height: 25)
+                            
+                            Button {
+                                openURL(URL(string: "https://github.com/lumaa-dev/NumMemory")!)
+                            } label: {
+                                Image(systemName: "info.circle")
+                            }
                             
                             if #available(iOS 17.0, *) {
                                 Button {
