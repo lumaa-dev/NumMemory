@@ -112,7 +112,11 @@ struct ContentView: View {
                                 openURL(URL(string: "https://github.com/lumaa-dev/NumMemory")!)
                             } label: {
                                 Image(systemName: "info.circle")
+                                    .imageScale(.large)
                             }
+                            
+                            Divider()
+                                .frame(height: 25)
                             
                             if #available(iOS 17.0, *) {
                                 Button {
@@ -372,6 +376,8 @@ struct ContentView: View {
         withAnimation {
             tappedRefresh.toggle()
         }
+//        canPlay = true
+//        return
         
         let saved = UserDefaults.standard.string(forKey: "datePlay") ?? "???"
 
