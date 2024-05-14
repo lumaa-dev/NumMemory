@@ -1,5 +1,7 @@
 # NumMemory
 
+Available on the [App Store](https://apps.apple.com/us/app/nummemory/id6501961939)
+
 - [In English](#nummemory---english)
 
 - [En Français](#nummemory---french)
