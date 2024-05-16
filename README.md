@@ -1,6 +1,6 @@
 # NumMemory
 
-Available on the [App Store](https://apps.apple.com/us/app/nummemory/id6501961939)
+Available on the [App Store](https://apps.lumaa.fr/app/nummemory)
 
 - [In English](#nummemory---english)
 
